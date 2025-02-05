@@ -43,6 +43,5 @@
 <p>
 <a href="https://www.linkedin.com/in/leonardo-martinperez/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" width="50" /></a>
 <a href="https://stackoverflow.com/users/29515768/leo" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" alt="StackOverflow" height="50" width="50" /></a>
-<a href="https://instagram.com/leomartin.12" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="Instagram" height="50" width="50" /></a>
 <a href="mailto:leomartinp12@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Gmail" height="50" width="50" /></a>
 </p>
