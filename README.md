@@ -9,7 +9,7 @@
 🤝 Mi especialidad es no dar el pescado, sino enseñar a usar la caña. He ayudado a varias personas a entender la programación desde cero, controlar su lógica y desarrollar sus propios proyectos.
 <i>"El que no vive para servir, no sirve para vivir"</i>.
 
-💼 Actualmente, me encuentro en proceso de dar el salto al mundo profesional. Estoy terminando de formarme como Técnico Superior en Desarrollo de Aplicaciones Multiplataforma, para hacerme un hueco en el sector, crecer como profesional y aportar mi granito de arena.
+💼 Actualmente, me encuentro en proceso de dar el salto al mundo laboral. Estoy terminando de formarme como Técnico Superior en Desarrollo de Aplicaciones Multiplataforma, para hacerme un hueco en el sector, crecer como profesional y aportar mi granito de arena.
 
 🎸 Si buscas un desarrollador, o un miembro para tu banda de <i>rock</i>, ¡no dudes en contar conmigo! Soy un multiinstrumentista amante de la música de hace alguna que otra década.
 <!-- <img src="https://github.com/leomartinp12/leomartinp12/blob/main/banner.png" alt="Banner Personalizado" width="100%"> -->
