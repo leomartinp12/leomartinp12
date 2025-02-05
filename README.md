@@ -2,14 +2,14 @@
 
 💻 Soy un apasionado <b>desarrollador <i>fullstack</i></b>.
 
-🎮 Tengo 10 años de experiencia como <i>indie</i>, programando y diseñando multitud de videojuegos, aplicaciones y programas en diversos lenguajes.
+🎮 Tengo 10 años de experiencia como <i>indie</i>, programando y diseñando multitud de videojuegos, aplicaciones y programas en diversos lenguajes, entre ellos Java, C#, GDScript y VBA.
 
 🧠 Gracias a mi camino recorrido como desarrollador, he aprendido a dominar la lógica de la programación, anticiparme a los errores, y escribir código eficiente y legible.
 
-🤝 Mi especialidad es no dar el pescado, sino enseñar a usar la caña. He ayudado a varias personas a entender la programación, controlar su lógica y desarrollar proyectos.
+🤝 Mi especialidad es no dar el pescado, sino enseñar a usar la caña. He ayudado a varias personas a entender la programación desde cero, controlar su lógica y desarrollar sus propios proyectos.
 <i>"El que no vive para servir, no sirve para vivir"</i>.
 
-💼 Actualmente, he decidido dar el salto al mundo profesional. Estoy terminando de formarme como Técnico Superior en Desarrollo de Aplicaciones Multiplataforma, para hacerme un hueco en el sector y aportar mi granito de arena.
+💼 Actualmente, me encuentro en proceso de dar el salto al mundo profesional. Estoy terminando de formarme como Técnico Superior en Desarrollo de Aplicaciones Multiplataforma, para hacerme un hueco en el sector, crecer como profesional y aportar mi granito de arena.
 
 🎸 Si buscas un desarrollador, o un miembro para tu banda de <i>rock</i>, ¡no dudes en contar conmigo! Soy un multiinstrumentista amante de la música de hace alguna que otra década.
 <!-- <img src="https://github.com/leomartinp12/leomartinp12/blob/main/banner.png" alt="Banner Personalizado" width="100%"> -->
